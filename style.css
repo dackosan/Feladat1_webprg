@@ -71,6 +71,8 @@
 #f4tarolo{
     display: flex;
     flex-direction: column;
+    height: 900px;
+    width: 50%;
 }
 
 .f4zold{
